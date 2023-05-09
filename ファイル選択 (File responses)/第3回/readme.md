@@ -13,7 +13,10 @@
 
 ### 命名規則
 
-英大文字は定数・英小文字は変数扱いです。その他のPythonの命名規則はこちらを参考にしてくださいhttps://qiita.com/naomi7325/items/4eb1d2a40277361e898b
+英大文字は定数・英小文字は変数扱いです。その他のPythonの命名規則はこちらを参考にしてください
+
+[Python命名規則一覧
+](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
 
 > **Note**[ [link](_exp3_1.ipynb)]+
 
