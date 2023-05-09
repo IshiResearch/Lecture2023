@@ -15,7 +15,7 @@ path = r"C:\Users\user\Documents\test.txt"
 ``` 
 
 > **複数ファイルのオープンについて** [[link](_exp4_1.ipynb)]  
-with文ではカンマ区切りで複数のファイルをオープンすることができます。
+with文ではカンマ区切りで複数のファイルをオープンすることができます。  
 e.g.
 
 ```python
