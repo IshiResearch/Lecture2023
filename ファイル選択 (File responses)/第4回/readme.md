@@ -1,7 +1,7 @@
 # 第4回 レビュー
-* ライブラリを使用しない場合も考えてみましょう。[ [link](kadai4%20shimokawara.ipynb)]+
+* ライブラリを使用しない場合も考えてみましょう。[[link](kadai4%20shimokawara.ipynb)]
 
-> **Note**[ [link](_exp4_1.ipynb)]+
+> **Note**[[link](_exp4_1.ipynb)]
 
 
 
@@ -19,7 +19,7 @@ path = r"C:\Users\user\Documents\test.txt"
 
 ``` 
 
-> **Note**  ### 複数ファイルのオープンについて  [ [link](_exp4_1.ipynb)]+
+> **Note**  ### 複数ファイルのオープンについて  [[link](_exp4_1.ipynb)]
 
 with文ではカンマ区切りで複数のファイルをオープンすることができます。この場合、ファイルオブジェクトはタプルで返されます。
 
@@ -37,7 +37,7 @@ with open("test1.txt", "r") as f1, open("test2.txt", "r") as f2:
 
 ```
 
-> **Note**[ [link](_exp4_1.ipynb)]+
+> **Note**[[link](_exp4_1.ipynb)]
 
 ### ソートアルゴリズムについて
 
