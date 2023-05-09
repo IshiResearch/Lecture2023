@@ -19,7 +19,8 @@ path = r"C:\Users\user\Documents\test.txt"
 
 ``` 
 
-> **Note**  ### 複数ファイルのオープンについて  [[link](_exp4_1.ipynb)]
+> **Note**
+### 複数ファイルのオープンについて  [[link](_exp4_1.ipynb)]
 
 with文ではカンマ区切りで複数のファイルをオープンすることができます。この場合、ファイルオブジェクトはタプルで返されます。
 
