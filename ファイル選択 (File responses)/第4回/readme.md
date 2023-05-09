@@ -34,5 +34,5 @@ with open("test1.txt", "r") as f1, open("test2.txt", "r") as f2:
 
 [【Unity】ソートアルゴリズム12種を可視化してみた](https://qiita.com/r-ngtm/items/f4fa55c77459f63a5228)
 
-[BATTLE OF THE SORTS: which sorting algorithm is the fastest? (visualization)]([https://panthema.net/2013/sound-of-sorting/](https://www.youtube.com/watch?v=OOBBI-kSChM))
+[BATTLE OF THE SORTS: which sorting algorithm is the fastest? (visualization)](https://www.youtube.com/watch?v=OOBBI-kSChM)
 
