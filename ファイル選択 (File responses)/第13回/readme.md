@@ -1,6 +1,5 @@
 # 第13回 レビュー
-> **Note**[[link](_exp_1.ipynb)]  
-## MP4V と H.264 の違い
+## MP4V と H.264 の違い[[link](_exp_1.ipynb)]  
 
 MP4V は MPEG-4 Visual という動画フォーマットの一種で、H.264 は MPEG-4 AVC という動画フォーマットの一種です。
 
@@ -18,8 +17,7 @@ H.264の方が圧縮率が高く、高画質であるため、YouTubeや8Kテレ
 
 <figure><img src="../../images/d3a938255c26a4195305e4000c72b9bb7c41211e3cb373bff3d7a0faa7bb7223.jpg"><figcaption>H264で保存したとき</figcaption></figure>
 
-> **Note** [[link](_exp_1.ipynb)]  
-### 設問5の解答例  
+## 設問5の解答例   [[link](_exp_1.ipynb)]  
 
 setメソッドの第二引数をframe_count+(定数)ではFPSによって巻き戻り・スキップする時間が変わってしまうため、frame_count+(fps*秒数)とすることで、動画のFPSに関わらず、5秒ずつスキップ・巻き戻しができます。  
 
